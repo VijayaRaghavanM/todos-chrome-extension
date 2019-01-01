@@ -36,6 +36,8 @@ npm run watch
 
 ## Popup
 
+Clicking on the extension icon will open the contents of the page `todo/popup/index.html` in a popup.
+
 ![Extension](screenshots/extension.png "Extension")
 
 **Note:** The primary color of the extension can be changed by changing the value of the ` $primary ` variable in `src/app.scss` and recompiling by running either the `watch` or `dev` npm script.
