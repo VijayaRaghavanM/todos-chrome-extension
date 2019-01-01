@@ -1,4 +1,4 @@
-# todos. chrome extension
+# todos chrome extension
 A chrome extension built with VueJS. 
 
 ## Getting Started
@@ -18,7 +18,7 @@ To automatically track changes to the files and transpile them as soon as any ch
 npm run watch
 ```
 
-##Loading the extension
+## Loading the extension
 
 * Open google chrome and go to `chrome://extensions/` or open the Extension manager from settings.
 
@@ -34,7 +34,7 @@ npm run watch
 * The extension will be added to chrome and an icon will appear on the chrome menu
 ![Extension added](screenshots/extension-added.png "Extension added")
 
-##Popup
+## Popup
 
 ![Extension](screenshots/extension.png "Extension")
 
