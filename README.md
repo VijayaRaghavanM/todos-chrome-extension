@@ -24,15 +24,12 @@ npm run watch
 * Enable developer mode to load extensions from filesystem.
 ![Enable developer mode](screenshots/developer-mode.png "Enable developer mode")
 * Click on **Load unpacked extension**
-
 ![Load unpacked extension](screenshots/load-unpacked.png "Load unpacked extension")
 * Select the todo folder cloned from the repository
 ![Select todo folder](screenshots/todo.png "Select todo folder")
 * The extension will be added to chrome and an icon will appear on the chrome menu
 ![Extension added](screenshots/extension-added.png "Extension added")
-
----
-
+* Opening the extension will display a popup
 ![Extension](screenshots/extension.png "Extension")
 
 **Note:** The primary color of the extension can be changed by changing the value of the ` $primary ` variable in `src/app.scss` and recompiling by running either the `watch` or `dev` npm script.
